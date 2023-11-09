@@ -1,0 +1,24 @@
+.rowstorecard{
+  display:flex;
+  flex-direction: row;
+  flex:1;
+  margin-left: -29px;
+  padding-bottom: 70px;
+ 
+}
+.storecard{
+  display:flex;
+flex-direction: row;
+width:400px;
+height:500px;
+margin-left:26px;
+}
+
+.storeimg10{
+  width:200px;
+  height:200px;
+  object-fit: cover;
+  padding-top: 70px;
+
+
+}

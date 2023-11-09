@@ -1,0 +1,95 @@
+.spl{
+  display:flex;
+  width:480px;
+  height:500px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-left: 20px;
+
+
+}
+.storecard1{
+  position: relative;
+  top:5px;  
+}
+.spl{
+  border:1px solid rgba(0,0,0,0.08);
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.03);
+  transition: all ease 0.3s;
+}
+.imgwhole{
+  display:flex;
+  flex-direction: row;
+  margin-left: -17px;
+  padding-bottom: 70px;
+
+}
+.imgg1{
+  position:absolute;
+  top:40px;
+  left:50px;
+  right:20px;
+}
+.imgg2{
+  position:absolute;
+  top:40px;
+  left:50px;
+  right:20px;
+}
+.imgg3{
+  position:absolute;
+  top:40px;
+  left:50px;
+  right:20px;
+}
+.txt1{
+  font-size: 12px;
+  font-family:Helvetica, Arial, sans-serif ;
+  font-weight: bold;
+  padding-bottom: 20px;
+  
+}
+.txt2{
+  font-size: 28px;
+  
+  font-family:Helvetica, Arial, sans-serif ;
+  padding-bottom: 6px;
+  line-height: 32px;
+  font-weight: bold;
+  
+}
+.txt3{
+  font-size:17px ;
+  font-family:Helvetica, Arial, sans-serif ;
+  padding-bottom: 3px;
+}
+.late{
+  color:black;
+  font-family:Helvetica, Arial, sans-serif ;
+  font-weight: bold;
+  font-size: 28px;
+  width:1000px;
+}
+.take{
+  color:#6e6e73;
+}
+
+.box{
+  margin-left: -20px;
+}
+.box1{
+  
+ 
+  border:1px solid rgba(0,0,0,0.08);
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.03);
+  transition: all ease 0.3s;
+}
+.box1:hover{
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.10);
+  transform:scale(1.008);
+  transition: all ease 0.3s;
+
+}
+.storeimg{
+  border-radius: 20px;
+}

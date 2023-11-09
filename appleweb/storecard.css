@@ -1,0 +1,135 @@
+.rowstorecard{
+  display:flex;
+  flex-direction: row;
+  flex:1;
+  
+
+  padding-bottom: 70px;
+}
+
+.storecard{
+display:flex;
+flex-direction: row;
+width:400px;
+height:500px;
+margin-left:26px;
+border-radius: 20PX;
+position:relative;
+border:1px solid rgba(0,0,0,0.08);
+box-shadow: 2px 2px 8px rgba(0,0,0,0.03);
+transition: all ease 0.3s;
+
+
+}
+
+.sttxt1{
+  position:absolute;
+  color:white;
+  top:20px;
+  left:30px;
+  
+  line-height: 30px;
+
+  
+
+}
+.sttxt2{
+  position:absolute;
+  color:black;
+  top:30px;
+  left:30px;
+  line-height: 20px;
+
+}
+.sttxt3{
+  position:absolute;
+  color:white;
+  top:30px;
+  left:30px;
+  line-height: 20px;
+
+}
+.sttxt4{
+  position:absolute;
+  color:black;
+  top:30px;
+  left:30px;
+  line-height: 20px;
+
+}
+.sttxt5{
+  position:absolute;
+  color:black;
+  top:30px;
+  left:30px;
+
+ 
+
+}
+.sttxt6{
+  position:absolute;
+  color:white;
+  top:30px;
+  left:30px;
+  line-height: 20px;
+
+}
+.sttxt7{
+  position:absolute;
+  color:black;
+  line-height: 20px;
+  top:30px;
+  left:30px;
+
+
+}
+.sttxt8{
+  position:absolute;
+  color:white;
+  top:30px;
+  left:30px;
+  line-height: 20px;
+
+}
+.sttxt9{
+  position:absolute;
+  color:black;
+  top:30px;
+  left:30px;
+  right:40px;
+  line-height: 20px;
+  
+  
+
+}
+.txt1{
+  font-size: 12px;
+  font-family:Helvetica, Arial, sans-serif ;
+  font-weight: bold;
+  padding-bottom: 6px;
+  color:#6e6e73;
+  
+  
+ 
+  
+}
+.txt2{
+  font-size: 28px;
+  font-family:Helvetica, Arial, sans-serif ;
+  padding-bottom: 6px;
+  line-height: 25px;
+  font-weight: bold;
+  
+}
+.txt3{
+  font-size:17px ;
+  font-family:Helvetica, Arial, sans-serif ;
+  padding-bottom: 3px;
+}
+.header-fab{
+  top:30px;
+  left:30px;
+  right:40px;
+  line-height: 20px;
+
+}
